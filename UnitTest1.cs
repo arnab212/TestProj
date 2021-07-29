@@ -40,7 +40,7 @@ namespace ForTest
 
             Assert.AreEqual(1000, res);
         }
-        [Test]
+       // [Test]
         public void Deposit()
         {
             int res = b.deposit(9000);
