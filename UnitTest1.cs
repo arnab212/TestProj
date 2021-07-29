@@ -31,6 +31,8 @@ namespace ForTest
 
         //    Assert.AreEqual(7,res);
         //}
+
+        [Test]
      
         public void Withdraw()
         {
